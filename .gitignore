@@ -1,0 +1,65 @@
+# -------------------------
+# Python cache & compiled files
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Virtual Environments
+# -------------------------
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# -------------------------
+# Jupyter Notebook Checkpoints
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# Google Colab Files
+# -------------------------
+*.ipynb_save
+*.ipynb_checkpoints
+
+# -------------------------
+# Python Packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# -------------------------
+# Logs & Outputs
+# -------------------------
+*.log
+*.out
+*.txt
+
+# -------------------------
+# Temporary & Cache Files
+# -------------------------
+.cache/
+*.tmp
+*.temp
+
+# -------------------------
+# Operating System Files
+# -------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.Trash-*
