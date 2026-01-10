@@ -88,27 +88,18 @@ This directly aligns with content-based recommendation design.
 
 ---
 
-## 👤 6. User Preference Examples
+## 👤 6. User Preference Example
 
-Two sample user personas were used to demonstrate the system:
+A sample user person were used to demonstrate the system:
 
-### ✔ User Preference Example 1
-- Cuisine: Italian / Continental  
-- Budget: Price Range → 2  
-- Delivery: Online Delivery = Yes  
-
-![Recommendations User 1](./screenshots/recommendation_user_1.png)
-
----
-
-### ✔ User Preference Example 2
+### ✔ User Preference Example
 - Cuisine: Chinese / Asian  
 - Budget: Price Range → 3  
 - Table Booking: Yes  
 
-![Recommendations User 2](./screenshots/recommendation_user_2.png)
+![Recommendations User 2](./screenshots/recommendation_user.png)
 
-These examples show recommendation variation across different user profiles.
+This example show recommendation variation across different user profiles.
 
 ---
 
