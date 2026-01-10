@@ -97,7 +97,7 @@ A sample user person were used to demonstrate the system:
 - Budget: Price Range → 3  
 - Table Booking: Yes  
 
-![Recommendations User 2](./screenshots/recommendation_user.png)
+![Recommendations User](./screenshots/recommendation_user.png)
 
 This example show recommendation variation across different user profiles.
 
