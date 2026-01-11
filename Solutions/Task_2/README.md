@@ -151,7 +151,6 @@ Users receive interpretable and customizable recommendations based on explicit p
 ## 📁 11. Files Included for Task-2
 
 - notebook.ipynb
-- notebook.pdf
 - README.md
 - screenshots/recommendation_user_1.png
 - screenshots/recommendation_user_2.png
