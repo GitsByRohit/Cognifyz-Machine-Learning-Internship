@@ -187,8 +187,7 @@ Although the model achieved ~33% accuracy, the results are realistic given the d
 
 ## 📁 13. Files Included
 
-- notebook.ipynb  
-- notebook.pdf  
+- notebook.ipynb    
 - README.md  
 - screenshots/confusion_matrix.png  
 - screenshots/classification_report.png  
