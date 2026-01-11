@@ -206,4 +206,4 @@ This highlights the importance of location intelligence in restaurant and retail
 - screenshots/top_cuisines_by_city.png
 
 
-**Note:** Due to interactive Folium map outputs, GitHub cannot render the map inside the notebook; please see PDF and screenshots for visual results.
+**Note:** Due to interactive Folium map outputs, GitHub cannot render the map preview inside the notebook; please refer to the exported PDF and screenshots for proper visualization of the results.
