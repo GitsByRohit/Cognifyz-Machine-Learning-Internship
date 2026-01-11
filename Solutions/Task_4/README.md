@@ -198,7 +198,6 @@ This highlights the importance of location intelligence in restaurant and retail
 ## 📁 9. Files Included for Task-4
 
 - notebook.ipynb
-- notebook.pdf
 - README.md (this file)
 - screenshots/folium_map.png
 - screenshots/city_restaurant_count.png
@@ -207,3 +206,4 @@ This highlights the importance of location intelligence in restaurant and retail
 - screenshots/top_cuisines_by_city.png
 
 
+**Note:** Due to interactive Folium map outputs, GitHub cannot render the map inside the notebook; please see PDF and screenshots for visual results.
