@@ -121,7 +121,6 @@ This task demonstrates the complete ML regression pipeline:
 ## 📁 10. Files Included
 
 - notebook.ipynb
-- notebook.pdf
 - README.md
 - screenshots/actual_vs_predicted.png
 - screenshots/feature_importance.png
